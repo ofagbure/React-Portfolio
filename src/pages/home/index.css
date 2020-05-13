@@ -1,0 +1,52 @@
+body {
+    background-image: url(./images/spikes.png);
+}
+
+.card-img-top {
+    height: 210px;
+}
+
+.navbar-brand {
+    background-color: orange ;
+    padding: 10px;
+}
+.display-8 {
+    background-color: orange ;
+    height: 60px;
+    justify-content: center;
+}
+.intro {
+    border:10px;
+}
+#submit {
+    background-color: orange ;
+    color: black;
+    height: 35px;
+    width: 75px;
+}
+
+.footer {
+    text-align: center;
+    border-top: 8px solid orange; background-color: orange ;
+}
+
+.icon {
+    height: 20px;
+    width: 20px;
+}
+
+a.nav-link {
+    color: #000000 !important;
+}
+#text {
+    color: black !important;
+}
+.logo {
+    height: 80px;
+    width: 80px;
+    }
+.container {
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+}
