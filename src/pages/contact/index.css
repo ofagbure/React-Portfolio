@@ -50,3 +50,7 @@ a.nav-link {
     padding-left: 0px;
     padding-top: 0px;
 }
+
+.card {
+    width: 23rem;
+}

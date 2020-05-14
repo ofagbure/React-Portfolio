@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
     return (
-        <div>
+        <div className="container">
             <div className="col-md-12 text-center padding-top">
                 <h3>Freelance Front-end Wed Developer and Technical Recruiter based in Atlanta GA</h3>
                 <h3>Experience in front end web application design and data base engineering</h3>

@@ -21,10 +21,10 @@ function Portfolio() {
                 </div>
                 <div className="col mb-4">
                     <div className="card">
-                        <a href="https://blooming-reaches-06138.herokuapp.com/">
-                            <img src="images/Eat-Da-Burger.png" className="card-img-top" alt="..." /></a>
+                        <a href="https://github.com/ofagbure/Developer-Team-Generator">
+                            <img src="images/Team Generator.png" className="card-img-top" alt="..." /></a>
                         <div className="card-body">
-                            <h5 className="card-title text-center">Eat-da-Burger Application</h5>
+                            <h5 className="card-title text-center">Developer Team Generator</h5>
                         </div>
                     </div>
                 </div>
@@ -60,10 +60,10 @@ function Portfolio() {
                 </div>
                 <div className="col mb-4">
                     <div className="card">
-                        <a href="https://github.com/ofagbure/Developer-Team-Generator">
-                            <img src="images/Team Generator.png" className="card-img-top" alt="..." /></a>
+                        <a href="https://choober.herokuapp.com/">
+                            <img src="images/Choober.png" className="card-img-top" alt="..." /></a>
                         <div className="card-body">
-                            <h5 className="card-title text-center">Team Developer Profile Generator</h5>
+                            <h5 className="card-title text-center">Project 3 - Choober</h5>
                         </div>
                     </div>
                 </div>
