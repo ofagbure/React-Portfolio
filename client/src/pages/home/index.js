@@ -20,7 +20,7 @@ function Home() {
             <div className="row">
                 <div className="col-sm-6">
                     <div className="card text-right">
-                        <img src="./images/web design.jpg" className="card-img-top" alt="..." />
+                        <img src="./images/web-design.jpg" className="card-img-top" alt="..." />
                         <div className="card-body">
                             <h5 className="card-title text-center">Web Design</h5>
                             <p className="card-text text-center">I have experience creating dynamic, innovative websites and applications</p>

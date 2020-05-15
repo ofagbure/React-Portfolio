@@ -28,7 +28,7 @@ function Navbar() {
                         data-target="#navbarToggl">
                         <ul className="navbar-nav">
                             <li className="nav-item">
-                            <Link className="nav-link" to="/home">Home</Link>
+                            <Link className="nav-link" to="/">Home</Link>
                               
                             </li>
                             <li className="nav-item">
@@ -52,7 +52,7 @@ function Navbar() {
                 </div>
             </nav>
             <Switch>
-          <Route exact path="/home">
+          <Route exact path="/">
             <Home />
           </Route>
           <Route path="/about">

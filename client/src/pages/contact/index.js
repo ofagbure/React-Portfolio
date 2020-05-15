@@ -33,17 +33,17 @@ function Contact() {
 
                                 <form>
                                     <div className="form-group">
-                                        <label for="name">Full Name</label>
+                                        <label htmlFor="name">Full Name</label>
                                         <input type="name" className="form-control" id="fullname"
                                             placeholder="First Name Last Name" />
                                     </div>
                                     <div className="form-group">
-                                        <label for="email">Email address</label>
+                                        <label htmlFor="email">Email address</label>
                                         <input type="email" className="form-control" id="email"
                                             placeholder="name@example.com" />
                                     </div>
                                     <div className="form-group">
-                                        <label for="message">Message</label>
+                                        <label htmlFor="message">Message</label>
                                         <textarea className="form-control" id="message" rows="8"
                                             placeholder="Type your message here"></textarea>
                                         <br />

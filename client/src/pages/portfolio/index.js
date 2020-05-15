@@ -13,7 +13,7 @@ function Portfolio() {
                 <div className="col mb-4">
                     <div className="card">
                         <a href="https://ofagbure.github.io/Password-Generator/">
-                            <img src="images/Password Generator.png" className="card-img-top" alt="..." /></a>
+                            <img src="images/Password-Generator.png" className="card-img-top" alt="..." /></a>
                         <div className="card-body">
                             <h5 className="card-title text-center">Password Generator</h5>
                         </div>
@@ -22,7 +22,7 @@ function Portfolio() {
                 <div className="col mb-4">
                     <div className="card">
                         <a href="https://github.com/ofagbure/Developer-Team-Generator">
-                            <img src="images/Team Generator.png" className="card-img-top" alt="..." /></a>
+                            <img src="images/Team-Generator.png" className="card-img-top" alt="..." /></a>
                         <div className="card-body">
                             <h5 className="card-title text-center">Developer Team Generator</h5>
                         </div>
@@ -51,7 +51,7 @@ function Portfolio() {
                 <div className="col mb-4">
                     <div className="card">
                         <a href="https://ofagbure.github.io/Code-Quiz/">
-                            <img src="images/Code Quiz.png" className="card-img-top" alt="..." /></a>
+                            <img src="images/Code-Quiz.png" className="card-img-top" alt="..." /></a>
                         <div className="card-body">
                             <h5 className="card-title text-center">Code Quiz</h5>
 
